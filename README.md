@@ -1,6 +1,6 @@
-- 👋 Hi, I’m ASCII(97)bdul-> Abdul, Actively seeking iOS Dev Roles
-- 👀 I’m passionate about iOS 0_0
+- 👋 Hi, I’m Abdul, Actively seeking iOS Dev Roles
+- 👀 I’m passionate about tech and Mobile application developement
 - 🌱 I’m currently learning New programming approaches
-- 📫 How to reach me rahman_am@outlook.com
+- 📫 reach me @ E - Rahman_am@outlook.com / 97bdul@gmail.com
 
 below are the apps i'm currently working on!
