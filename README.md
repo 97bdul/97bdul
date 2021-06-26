@@ -1,4 +1,4 @@
-👋   Hi, I’m Abdul, Actively seeking iOS Dev Roles
+👋   Hi, I’m Abdul, iOS Dev
 
 👀   I’m passionate about tech and into iOS application develoment.
 
