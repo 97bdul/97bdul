@@ -1,4 +1,4 @@
-👋   Hey This is Abdul Rahman!
+👋   Hey, This is Abdul Rahman!
 
 👀   Tech Enthusiast and Design + Code iOS application for living
 
