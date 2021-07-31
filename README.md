@@ -2,4 +2,7 @@
 
 👀   Tech Enthusiast and Design + Code iOS application for living
 
-![SWIFTUI](https://user-images.githubusercontent.com/85195589/127753576-8c1d43bc-cb90-4c7f-9eed-784b154eb37d.png)                   ![Swift5](https://user-images.githubusercontent.com/85195589/127753686-49a23442-0fe7-427f-b70e-de4eded5fc2f.png)
+![pngegg-2](https://user-images.githubusercontent.com/85195589/127753875-cf543e80-5751-4fc0-a6a1-60303091dc45.png)
+
+![icon](https://user-images.githubusercontent.com/85195589/127753929-450b84cb-9121-4ab0-a2ed-46556411672f.png)
+
